@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Giving simple styles to the web page */
+
+body{
+    background-color: bisque;
+}
+
+th{
+    text-align: center;
+}
